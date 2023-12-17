@@ -30,3 +30,4 @@ C:\Users\Usuário\Desktop\code\C#\FilmesAPI\FilmesAPI\obj\Debug\net8.0\refint\Fi
 C:\Users\Usuário\Desktop\code\C#\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.pdb
 C:\Users\Usuário\Desktop\code\C#\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\Usuário\Desktop\code\C#\FilmesAPI\FilmesAPI\obj\Debug\net8.0\ref\FilmesAPI.dll
+C:\Users\Usuário\Desktop\code\C#\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.sourcelink.json

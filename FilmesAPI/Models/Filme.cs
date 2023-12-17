@@ -4,13 +4,15 @@ namespace FilmesAPI.Models
 {
     public class Filme
     {
-        public Filme(string titulo, string genero, int duracao)
+        public Filme(int id, string titulo, string genero, int duracao)
         {
+            Id = id;
             Titulo = titulo;
             Genero = genero;
             Duracao = duracao;
         }
 
+        public int Id { get; set; }
         [Required(ErrorMessage = "O título do filme é obrigatório")]
         public string Titulo { get; set; }
         [Required(ErrorMessage = "O gênero do filme é obrigatório")]
